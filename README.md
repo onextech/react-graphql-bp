@@ -1,4 +1,4 @@
-# React GraphlQL Boilerplate
+# React GraphQL Boilerplate
 
 
 ### Themeing Semantic
