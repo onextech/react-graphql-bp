@@ -5,7 +5,7 @@
 Build our own semantic-ui css:
 1. Ensure that 'semantic-ui' package is in node_modules, otherwise do `yarn add -D semantic-ui --ignore-scripts`
 2. Make changes in `./semantic/src/themes/default/globals/site.variables`
-2. Run '$ yarn build-theme'
+2. Run `$ yarn build-theme`
 
 ##### References:
 - https://react.semantic-ui.com/usage#semantic-ui-package
