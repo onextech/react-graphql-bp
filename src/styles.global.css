@@ -1,0 +1,12 @@
+/*
+Build our own semantic-ui css:
+> 1. Install gulp globally
+> 2. Go to /semantic folder in project root
+> 3. Run '$ gulp build-css; gulp build-assets'
+@links:
+https://react.semantic-ui.com/usage#semantic-ui-package
+http://g14n.info/2016/11/react-semantic-customized/
+https://semantic-ui.com/usage/theming.html
+*/
+@import '../semantic/dist/semantic.min.css';
+@import '~@onextech/react-semantic-booster/dist/react-semantic-booster.min.css';
