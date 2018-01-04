@@ -5,6 +5,8 @@ WORKDIR $HOME
 
 # Cache and install npm deps
 COPY package.json $HOME
+# Copy semantic json settings for semantic-ui file
+COPY semantic.json $HOME
 RUN yarn
 
 # Copy application to container and build dist
