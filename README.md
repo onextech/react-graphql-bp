@@ -1,4 +1,4 @@
-# WARNING: DEPRECATED
+# DEPRECATION WARNING
 This boilerplate is deprecated as it is now succeeded by https://github.com/onextech/reactbp.
 
 ## React GraphQL Boilerplate 
