@@ -1,4 +1,7 @@
-# React GraphQL Boilerplate
+# WARNING: DEPRECATED
+This boilerplate is deprecated as it is now succeeded by https://github.com/onextech/reactbp instead.
+
+## React GraphQL Boilerplate 
 
 ### Installation
 ##### Loading dev server
